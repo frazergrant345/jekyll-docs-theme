@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Front Matter
+title: Wiki
 description: ~
 ---
 
